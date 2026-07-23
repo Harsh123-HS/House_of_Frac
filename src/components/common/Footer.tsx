@@ -126,7 +126,7 @@ function Footer() {
 
           <span className="hidden h-6 w-[1px] bg-white/20 sm:block" />
 
-=          <p
+          <p
             className="
               text-center
               text-lg
