@@ -26,6 +26,7 @@ function FooterTwo() {
               fractional ownership
             </p>
 
+            {/* Social Icons */}
             <div className="mt-8 flex items-center gap-3">
               <SocialIcon>
                 <FaXTwitter size={15} />
@@ -45,12 +46,12 @@ function FooterTwo() {
             </div>
           </div>
 
-=          <FooterColumn
+         <FooterColumn
             title="Platform"
             links={["How it Works", "Properties", "FAQs"]}
           />
 
-=          <FooterColumn
+          <FooterColumn
             title="Company"
             links={["About Us", "Blog", "T&C", "Privacy Policy"]}
           />
